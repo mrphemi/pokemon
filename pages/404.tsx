@@ -15,8 +15,8 @@ const NotFound = () => {
         </div>
 
         <h1 className="capitalize text-4xl font-bold text-center max-w-2xl">
-          oops... you're in ghost land. click button below to return back to the
-          living
+          oops... you are in ghost land. click button below to return back to
+          the living
         </h1>
 
         <Link
