@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-poke-light-blue bg-gray-50;
+  }
+
+  html:focus-within {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .wrapper {
+    @apply px-5 md:px-10 2xl:px-0 max-w-7xl mx-auto;
+  }
+}
