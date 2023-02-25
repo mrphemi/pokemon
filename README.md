@@ -9,4 +9,4 @@ The app allows you to view a list of pokemons and view their individual details 
 - [react-waypoint](https://www.npmjs.com/package/react-waypoint) - Lazy loading component. Used to lazy load more pokemons.
 - [Tailwindcss](https://tailwindcss.com/) - For styling the application.
 
-[Screenshot](/screenshot.png)
+[Screenshot](/public/screenshot.png)
